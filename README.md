@@ -1,5 +1,7 @@
 # kozmabenedek
-Üdvüözletem, Benedek.
+
+# ez a weboldalam címe
+https://gaborszantonk.github.io/kozmabenedek/
 
 
 # 03 02 feladat
