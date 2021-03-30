@@ -1,4 +1,7 @@
-body{background-image: url(pict/download.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size: cover;}
-header {text-align:center; width:100%; background-color:red; position: fixed;top: 0px; left: 0px; z-index: 2;}
-#egy {text-align: center; color:yellow}
-img {width: 40%}
+body{background-image:url(pict/gtx\ 3090.jpg); background-repeat: no-repeat; background-position: center;background-size: cover;}
+header{width: 100%;color: red;background-color: black;}
+body{color: red;text-align: center;}
+#Celtics {width: 33%;margin-top: 5%;background-color: orangered; float: left; }
+#Nets {width: 33%;margin-top: 5%;background-color:lightblue; float: left; }
+#Phili {width: 33%;margin-top: 5%;background-color: lightgreen; float: left; }
+.torol{clear: both;}
